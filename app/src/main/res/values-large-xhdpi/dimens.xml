@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="dm_joystick_size">200dp</dimen>
+    <dimen name="dm_joystick_L_marginBottom">240dp</dimen>
+
+    <dimen name="dm_button_size">70dp</dimen>
+    <dimen name="dm_button_dbsize">140dp</dimen>
+    <dimen name="dm_button_msize">-70dp</dimen>
+    <dimen name="dm_button_marginStartLeft">160dp</dimen>
+    <dimen name="dm_arrow_button_marginTop">240dp</dimen>
+
+    <dimen name="dm_float_button_marginBottom">50dp</dimen>
+
+    <dimen name="dm_float_text_elevation">16dp</dimen>
+
+    <dimen name="dm_text_size">12sp</dimen>
+</resources>
